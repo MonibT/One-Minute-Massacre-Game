@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1037
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Game
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -752,7 +752,7 @@ MonoBehaviour:
       containerId: overlay-toolbar__top
       floating: 0
       collapsed: 0
-      displayed: 1
+      displayed: 0
       snapOffset: {x: 0, y: 25}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
@@ -810,9 +810,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -10.76785, y: 7.27645, z: 2.5200837}
+    m_Target: {x: -4.572266, y: 5.499584, z: 2.4290798}
     speed: 2
-    m_Value: {x: -10.641394, y: 6.8460917, z: 2.5267124}
+    m_Value: {x: -4.572266, y: 5.499584, z: 2.4290798}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -862,9 +862,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 15.393418
+    m_Target: 25.964354
     speed: 2
-    m_Value: 14.730544
+    m_Value: 25.964354
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -925,9 +925,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: b6c40000
       m_LastClickedID: 0
-      m_ExpandedIDs: 4c74fdfff075fdff6678fdff3c7afdfff27bfdfff27dfdff2e81fdff7683fdff6684fdffea86fdff5889fdffdc8bfdff888efdff6094fdffea97fdffe099fdfff626fefff827feff062cfeff582cfeff242efefff82efeffc62ffeff8e30feff5c31feff1832feffd432feffb233feffd033feff187afeff8c7bfeff7ad6000076de000096df0000
+      m_ExpandedIDs: e867feff2e6bfeff246cfeff286dfeff726efeff7c6ffeffca70feffc071feff4273feff3874feff3475feff2a76feff2077feff1478feff0a79feff147afeff8c7bfeff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1093,7 +1093,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 47}
     m_GridSize: 95
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 149
@@ -1275,7 +1275,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
